@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Валерия\\source\\repos\\UnitTest\\UnitTest.csproj": {}
+    "C:\\Users\\Валерия\\Desktop\\AreaCalc\\UnitTest\\UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Валерия\\source\\repos\\AreaCalc\\AreaCalc.csproj": {
+    "C:\\Users\\Валерия\\Desktop\\AreaCalc\\AreaCalc\\AreaCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Валерия\\source\\repos\\AreaCalc\\AreaCalc.csproj",
+        "projectUniqueName": "C:\\Users\\Валерия\\Desktop\\AreaCalc\\AreaCalc\\AreaCalc.csproj",
         "projectName": "AreaCalc",
-        "projectPath": "C:\\Users\\Валерия\\source\\repos\\AreaCalc\\AreaCalc.csproj",
+        "projectPath": "C:\\Users\\Валерия\\Desktop\\AreaCalc\\AreaCalc\\AreaCalc.csproj",
         "packagesPath": "C:\\Users\\Валерия\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Валерия\\source\\repos\\AreaCalc\\obj\\",
+        "outputPath": "C:\\Users\\Валерия\\Desktop\\AreaCalc\\AreaCalc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Валерия\\source\\repos\\UnitTest\\UnitTest.csproj": {
+    "C:\\Users\\Валерия\\Desktop\\AreaCalc\\UnitTest\\UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Валерия\\source\\repos\\UnitTest\\UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Валерия\\Desktop\\AreaCalc\\UnitTest\\UnitTest.csproj",
         "projectName": "UnitTest",
-        "projectPath": "C:\\Users\\Валерия\\source\\repos\\UnitTest\\UnitTest.csproj",
+        "projectPath": "C:\\Users\\Валерия\\Desktop\\AreaCalc\\UnitTest\\UnitTest.csproj",
         "packagesPath": "C:\\Users\\Валерия\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Валерия\\source\\repos\\UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\Валерия\\Desktop\\AreaCalc\\UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Валерия\\source\\repos\\AreaCalc\\AreaCalc.csproj": {
-                "projectPath": "C:\\Users\\Валерия\\source\\repos\\AreaCalc\\AreaCalc.csproj"
+              "C:\\Users\\Валерия\\Desktop\\AreaCalc\\AreaCalc\\AreaCalc.csproj": {
+                "projectPath": "C:\\Users\\Валерия\\Desktop\\AreaCalc\\AreaCalc\\AreaCalc.csproj"
               }
             }
           }
